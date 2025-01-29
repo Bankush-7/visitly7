@@ -1,4 +1,4 @@
-# WanderLust Project
+# Visitly Project
 
 Project Summary:
 
